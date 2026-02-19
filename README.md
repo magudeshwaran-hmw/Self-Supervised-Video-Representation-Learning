@@ -2,7 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c?style=flat-square)](https://pytorch.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=flat-square)](https://streamlit.io)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=flat-square)](https://magudeshwaran-hmw-self-supervised-video-representation-learning.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/magudeshwaran-hmw/Self-Supervised-Video-Representation-Learning)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 **Self-supervised video representation learning** with SimCLR, MoCo v2, BYOL, and VideoMAE. Interactive Streamlit UI for training, evaluation, and visualization.
